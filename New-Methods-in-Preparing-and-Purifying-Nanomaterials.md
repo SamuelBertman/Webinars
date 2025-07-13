@@ -6,7 +6,7 @@ New method for separating h-BN (white graphite) into boron nitride nanosheets. T
 
 ---
 
-## What you learned
+## What I learned
 
 - The new method separates h-BN into sheets.  
 - Boron nitride nanosheets are useful in many applications:  
@@ -18,7 +18,7 @@ New method for separating h-BN (white graphite) into boron nitride nanosheets. T
 
 ---
 
-## Why it matters for your goals
+## Why it matters for my goals
 
 - Shows how small material advancements can have widespread industry impact  
 - Highlights the ongoing development of new materials to further improve aerospace work  
